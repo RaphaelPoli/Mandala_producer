@@ -1,2 +1,2 @@
 # Mandala_producer
-A series of graphic procedure
+A series of graphic and geometric procedures
